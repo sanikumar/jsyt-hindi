@@ -1,0 +1,2 @@
+# jsyt-hindi
+dynamic javascript 
