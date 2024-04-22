@@ -5,4 +5,4 @@ accountCity = "patna"
 
 // accountId = 3
 console.log(accountId)
-console.table([accountId,accountEmail,accountPassword,accountCity])
+console.table([accountId,accountEmail,accountPassword,accountCity]
